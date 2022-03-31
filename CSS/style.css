@@ -476,6 +476,7 @@ background-color: white;
     overflow: hidden;
     margin-top: 50PX;
     
+    
 }
 .lif{
     background-color: #0C65ED;
@@ -483,6 +484,7 @@ background-color: white;
     border-radius: 9px 0px 0px 9px !important;
     overflow: hidden;
     margin-top: 50PX;
+    
     
 
 
@@ -558,6 +560,9 @@ background-color: white;
 .form-control:focus{
     border-color: #0C65ED !important;
     box-shadow: none;
+}
+.owl-theme .owl-nav [class*=owl-]:hover{
+    background: transparent !important;
 }
 
 
